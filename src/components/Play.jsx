@@ -14,7 +14,7 @@ const Play = () => {
   const generateRandomNumber = (min, max) => {
     return Math.floor(Math.random() * (max - min) + min);
   };
-
+const toffy=()=>setshowRules((prev)=>!prev);
   const rolldice = () => {
     const randomNumber = generateRandomNumber(1, 7);
     setCurrentDice(randomNumber);
@@ -48,7 +48,7 @@ const Play = () => {
 
       <div style={styles.buttonContainer}>
         <button id="resetButton" style={styles.button} onClick={resetGame}>Reset</button>
-        <button id="rollDiceButton" style={styles.button} onClick={()=>setshowRules((prev)=> !prev)}>{showRules?"Hide" : "Show"} Rules</button>
+        <button id="rollDiceButton" style={styles.button} onClick={toffy}>{showRules?"Hide" : "Show"} Rules</button>
         
       </div> {showRules && <Rules/>}
     </main>
