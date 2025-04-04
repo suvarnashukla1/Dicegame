@@ -1,8 +1,38 @@
-# React + Vite
+# 🎲 Dice Game  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and interactive dice game built using React.js where players roll a dice and earn points if their guessed number matches the rolled result. The game is designed to be **responsive and device-friendly**, ensuring smooth gameplay on all screen sizes.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features  
+
+✅ **Interactive Gameplay** – Roll the dice and match numbers to score points.  
+✅ **Dynamic Scoring** – Earn points when your guessed number matches the rolled dice.  
+✅ **Device-Friendly** – Fully responsive for both mobile and desktop users.  
+✅ **State Management** – Uses React hooks for efficient state handling.  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Frontend:** React.js (Vite)  
+- **State Management:** React Hooks (useState, useEffect)  
+
+---
+
+## 📥 Installation  
+
+Run the following commands to set up the project:  
+
+```sh
+# Clone the Repository  
+git clone https://github.com/your-username/dice-game.git  
+
+# Navigate to the project directory  
+cd dice-game  
+
+# Install dependencies  
+npm install  
+
+# Start the development server  
+npm run dev  
