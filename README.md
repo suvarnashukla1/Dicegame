@@ -28,11 +28,3 @@ Run the following commands to set up the project:
 # Clone the Repository  
 git clone https://github.com/your-username/dice-game.git  
 
-# Navigate to the project directory  
-cd dice-game  
-
-# Install dependencies  
-npm install  
-
-# Start the development server  
-npm run dev  
