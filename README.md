@@ -20,11 +20,11 @@ A fun and interactive dice game built using React.js where players roll a dice a
 
 ---
 
-## 📥 Installation  
 
-Run the following commands to set up the project:  
 
-```sh
-# Clone the Repository  
-git clone https://github.com/your-username/dice-game.git  
+## 🔧 Installation
 
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/suvarnashukla1/Dicegame.git
