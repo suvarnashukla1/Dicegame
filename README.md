@@ -4,7 +4,7 @@ A fun and interactive dice game built using React.js where players roll a dice a
 
 ---
 
-## 🚀 Features  
+## Features  
 
 ✅ **Interactive Gameplay** – Roll the dice and match numbers to score points.  
 ✅ **Dynamic Scoring** – Earn points when your guessed number matches the rolled dice.  
