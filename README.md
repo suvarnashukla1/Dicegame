@@ -1,4 +1,4 @@
-# 🎲 Dice Game  
+#  Dice Game  
 
 A fun and interactive dice game built using React.js where players roll a dice and earn points if their guessed number matches the rolled result. The game is designed to be **responsive and device-friendly**, ensuring smooth gameplay on all screen sizes.  
 
