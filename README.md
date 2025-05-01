@@ -13,7 +13,7 @@ A fun and interactive dice game built using React.js where players roll a dice a
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 - **Frontend:** React.js (Vite)  
 - **State Management:** React Hooks (useState, useEffect)  
