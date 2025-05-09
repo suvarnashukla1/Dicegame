@@ -19,7 +19,7 @@ A fun and interactive dice game built using React.js where players roll a dice a
 
 
 
-## 🔧 Installation
+##  Installation
 
 1. **Clone the Repository**:
 
